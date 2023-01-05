@@ -13,6 +13,3 @@ db.sqlite3-journal
 __pycache__/
 *.py[cod]
 *$py.class
-devsearch/.gitignore
-        modified:   devsearch/users/urls.py
-        modified:   devsearch/users/views.py
